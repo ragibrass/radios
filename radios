@@ -18,14 +18,14 @@ http://streaming.buinaldia.cl:8006/buinaldia128
 #EXTINF:-1, FM Tiempo (95.9)
 https://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
 
-#EXTINF:-1, Nostalgica (88.1 FM Copiapo)
-http://unlimited11-cl.dps.live/nostalgica/mp3/icecast.audio
+#EXTINF:-1, Carnaval (Rancagua)
+http://tunein.digitalproserver.com/carnaval_rancagua
 
-#EXTINF:-1, Radio Amiga (88.5 FM Vallenar)
+#EXTINF:-1, Amiga (88.5 FM Vallenar)
 http://184.154.173.147:8021/stream
 
-#EXTINF:-1, FM Okey (89.3 FM Antofagasta)
-http://streaming.fmokey.cl:8000/FmOkAT.mp3
+#EXTINF:-1, Cariñosa (92.1 Chillan)
+https://streams.radio.co/s3648b23b1/listen
 
 #EXTINF:-1, Futuro (88.9 FM)
 http://19793.live.streamtheworld.com/FUTUROAAC.aac
@@ -36,7 +36,7 @@ http://190.82.105.90:8012/stream/1/
 #EXTINF:-1, Duna (89.7 FM)
 http://unlimited11-cl.dps.live/duna/aac/icecast.audio
 
-#EXTINF:-1, Radio Ñuble (89.7 FM Chillan)
+#EXTINF:-1, Ñuble (89.7 FM Chillan)
 http://173.233.72.82:9358/;
 
 #EXTINF:-1,Radio Carnaval (89.9 FM Viña del Mar)
@@ -45,10 +45,10 @@ http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 #EXTINF:-1, Pudahuel (90.5 FM)
 http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 
-#EXTINF:-1, Radio Alegria del Transporte (90.9 FM Calama)
+#EXTINF:-1, Alegria del Transporte (90.9 FM Calama)
 http://s6.medionline.cl:9364/;
 
-#EXTINF:-1, Radio Maray (90.9 FM Copiapo)
+#EXTINF:-1, Maray (90.9 FM Copiapo)
 http://184.154.173.147:8000/;stream.mp3
 
 #EXTINF:-1, ADN Radio (91.7 FM)
@@ -60,7 +60,7 @@ http://s00.midns.net:8040/;
 #EXTINF:-1, Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
-#EXTINF:-1, Radio Entretenida FM (92.5 FM Vilcun)
+#EXTINF:-1, Entretenida FM (92.5 FM Vilcun)
 http://atanua.broadcastchile.cl:7000/;
 
 #EXTINF:-1, Nuevo Amanecer (93.3 FM Fresia)
@@ -72,230 +72,188 @@ http://tunein.digitalproserver.com/laclavebb.aac
 #EXTINF:-1, Universo (93.7 FM)
 http://unlimited3-cl.dps.live/universo/mp3/icecast.audio
 
-#EXTINF:-1, Radio Centinela (93.9 FM Yumbel)
+#EXTINF:-1, Centinela (93.9 FM Yumbel)
 http://s3.medionline.cl:9964
 
-#EXTINF:-1, Radio Magistral (93.9 FM Galvarino)
+#EXTINF:-1, Magistral (93.9 FM Galvarino)
 http://www.magistralfm.cl:9110/galvarino
 
-#EXTINF:-1,  tvg-logo="4CGIlyX.jpg" group-title="RADIOS ONLINE", Rock and Pop (94.1 FM)
+#EXTINF:-1, Rock and Pop (94.1 FM)
 http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Genesis (94.1 FM Andacollo)
-http://stream5.eltelon.com/genesis-andacollo.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Rinconada (94.3 FM Mejillones)
-http://server4.radiostreaming.cl:8062/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Almeyda (94.3 FM Diego de Almagro)
-http://192.99.18.164:9974/stream
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio La Discusion (94.7 FM Chillan)
-http://stream5.eltelon.com/radio-la-discusion.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Universal (94.7 FM Pitrufquen)
+#EXTINF:-1, Universal (94.7 FM Pitrufquen)
 http://s01.midns.net/universal-aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Maxima (94.9 FM)
+#EXTINF:-1, Maxima (94.9 FM)
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Amanda (94.9 FM Buin)
+#EXTINF:-1,  Amanda (94.9 FM Buin)
 http://amanda.cmtelcom.com/amanda128
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Bio Bio Puerto Montt (94.9 Puerto Montt)
+#EXTINF:-1,  Bio Bio Puerto Montt (94.9 Puerto Montt)
 https://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Udec (95.1 FM Concepcion)
+#EXTINF:-1, Udec (95.1 FM Concepcion)
 http://radio.udec.cl:8000/radioudec
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Candela FM (95.3 FM)
+#EXTINF:-1, Candela FM (95.3 FM)
 http://unlimited11-cl.dps.live/candela/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Coyhaique (95.3 FM Coyhaique)
+#EXTINF:-1, Coyhaique (95.3 FM Coyhaique)
 http://stream5.eltelon.com/radio-coyhaique.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Atractiva (FM 95.3 Concepcion)
+#EXTINF:-1, Atractiva (FM 95.3 Concepcion)
 http://5.9.65.9:8062/atractiva
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", FM Tiempo (95.9 FM)
-http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Universidad de Tarapaca (95.9 FM Arica)
-http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Estilo (FM 95.9 Coyhaique)
-http://audio2.tustreaming.cl:8058/stream
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Araucana (95.9 FM Temuco)
-http://s6.medionline.cl:9180/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Beethoven (96.5 FM)
-http://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Genesis (96.5 FM Curacautin)
-http://stream5.eltelon.com/genesis.aac
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Carnaval Antofagasta (96.5 FM)
+#EXTINF:-1, Carnaval Antofagasta (96.5 FM)
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Loactual (96.7 FM Calama)
+#EXTINF:-1, Loactual (96.7 FM Calama)
 http://rs.comtic.net:8000/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Bio Bio Los Angeles (96.7 FM Los Angeles)
+#EXTINF:-1, Bio Bio Los Angeles (96.7 FM Los Angeles)
 http://ice.dallas.digitalproserver.com/biola
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio San Bartolome (96.7 FM La Serena)
+#EXTINF:-1, San Bartolome (96.7 FM La Serena)
 http://stream5.eltelon.com/san-bartolome.aac
 
-#EXTINF:-1,  tvg-logo="hKoZUkW.jpg" group-title="RADIOS ONLINE", Radio Uno (97.1 FM)
+#EXTINF:-1, Radio Uno (97.1 FM)
 http://17933.live.streamtheworld.com/RADIO_UNOAAC.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Zero (97.7 FM)
+#EXTINF:-1, Zero (97.7 FM)
 https://unlimited3-cl.dps.live/zero/go/audio/now/livestream1.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Sol (97.7 FM Antofagasta)
+#EXTINF:-1, Sol (97.7 FM Antofagasta)
 http://online.radiosol.cl:8000/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Sol Austral (97.7 FM Aysen)
+#EXTINF:-1, Austral (97.7 FM Aysen)
 http://184.154.173.147:8019/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Ventisqueros (97.7 FM Coyhaique)
+#EXTINF:-1, Ventisqueros (97.7 FM Coyhaique)
 http://stream5.eltelon.com:8000/ventisqueros.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Bio Bio Concepcion (98.1 FM Concepcion)
+#EXTINF:-1, Bio Bio Concepcion (98.1 FM Concepcion)
 https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Camila (98.3 FM Los Angeles)
+#EXTINF:-1, Camila (98.3 FM Los Angeles)
 http://190.107.176.55:1935/live/archi-camila/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="Et0VpX5.jpg" group-title="RADIOS ONLINE", FM Dos (98.5 FM)
+#EXTINF:-1, FM Dos (98.5 FM)
 http://19223.live.streamtheworld.com/FMDOS_SC
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Positiva (98.5 FM Temuco)
+#EXTINF:-1, Positiva (98.5 FM Temuco)
 http://mimix.mercurio.cl:8000/temuco2
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", El Conquistador (98.9 FM Concepcion)
-http://s02.midns.net:8028/;stream.mp3
+#EXTINF:-1,  RTL (linares)
+http://radiortl.cl/player/linares/?pl=vlc&c=Radio%20RTL%20Linares
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Marcela (99.1 FM Huasco)
+#EXTINF:-1, Radio Marcela (99.1 FM Huasco)
 http://stream5.eltelon.com/archi-marcela.aac?type=.flv
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Carolina (99.3 FM)
+#EXTINF:-1, Radio Carolina (99.3 FM)
 http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Arcoiris (99.3 FM Coyhaique)
+#EXTINF:-1,  Arcoiris (99.3 FM Coyhaique)
 http://s6.jcwebnew.com:8120/stream
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Positiva (FM 99.5 Valdivia)
+#EXTINF:-1, Positiva (FM 99.5 Valdivia)
 http://mimix.mercurio.cl:8000/valdivia2
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Caramelo (99.5 FM Los Angeles)
+#EXTINF:-1, Caramelo (99.5 FM Los Angeles)
 http://sc6.digitalproserver.com:8120/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Bio Bio Santiago (99.7 FM)
+#EXTINF:-1, Bio Bio Santiago (99.7 FM)
 http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Universidad de Antofagasta (99.9 FM)
+#EXTINF:-1, Radio Universidad de Antofagasta (99.9 FM)
 http://185.105.4.100/proxy/radioua?mp=/stream
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Infinita (100.1 FM)
+#EXTINF:-1,  Infinita (100.1 FM)
 http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Andina (100.1 FM Arica)
+#EXTINF:-1, Andina (100.1 FM Arica)
 http://46.4.33.73:5000/stream/1/
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Paula FM (100.5 FM)
+#EXTINF:-1, Paula FM (100.5 FM)
 http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Mejillones FM (100.9 FM)
+#EXTINF:-1, Mejillones FM (100.9 FM)
 http://s6.medionline.cl:8006/;
 
-#EXTINF:-1,  tvg-logo="rz44EST.png" group-title="RADIOS ONLINE", Radio Corazon (101.3 FM)
+#EXTINF:-1, Corazon (101.3 FM)
 http://14003.live.streamtheworld.com/CORAZONAAC.aac
 
-#EXTINF:-1,  tvg-logo="6NJOV24.jpg" group-title="RADIOS ONLINE", Los 40 Principales (101.7 FM)
+#EXTINF:-1, 40 Principales (101.7 FM)
 http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Oasis (102.1 FM)
+#EXTINF:-1, Oasis (102.1 FM)
 http://mp3.oasisfm.cl/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio U. de Chile (102.5 FM)
+#EXTINF:-1, U. de Chile (102.5 FM)
 http://streamuchile.teslati.com:8000/listen.pls?sid=1
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Madero (102.5 FM Antofagasta)
+#EXTINF:-1, Madero (102.5 FM Antofagasta)
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Montecarlo (102.7 FM)
+#EXTINF:-1, Montecarlo (102.7 FM)
 http://montecarloradiostation2.better-than.tv/stream/1/
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio La Voz De Yungay (102.7 FM Ñuble)
+#EXTINF:-1, La Voz De Yungay (102.7 FM Ñuble)
 http://stream5.eltelon.com/archi-yungay.aac?type=.flv
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Las Nieves (102.9 FM Puerto Aysen)
+#EXTINF:-1,  Las Nieves (102.9 FM Puerto Aysen)
 http://audio2.tustreaming.cl:8044/stream
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Okey (103.1 FM Copiapo)
-http://streaming.fmokey.cl:8000/FmOkCP.mp3
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Centro FM (103.3 FM Antofagasta)
+#EXTINF:-1,Radio Centro FM (103.3 FM Antofagasta)
 http://stream5.eltelon.com/centro.aac
 
-#EXTINF:-1,   tvg-logo="EwubKy5.png" group-title="RADIOS ONLINE", Tele13 Radio (103.3 FM)
+#EXTINF:-1, Tele13 Radio (103.3 FM)
 https://t13-radio-live.cdn.nedmedia.io/index.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio UCV FM (103.5 FM Valparaiso)
+#EXTINF:-1, UCV FM (103.5 FM Valparaiso)
 http://sonando.us.digitalproserver.com/ucvradio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Contacto (103.9 FM Talagante)
+#EXTINF:-1, Contacto (103.9 FM Talagante)
 http://s02.midns.net:8697/stream/1/
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Romantica (104.1 FM)
+#EXTINF:-1, Romantica (104.1 FM)
 http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio 1049 (FM 104.9 Pucon)
+#EXTINF:-1, Radio 1049 (FM 104.9 Pucon)
 http://audio.streaminghd.cl:8034/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Sonar (105.3)
+#EXTINF:-1, Sonar (105.3)
 http://mp3.sonarfm.cl/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Pinamar (105.3 FM La Serena)
+#EXTINF:-1, Radio Pinamar (105.3 FM La Serena)
 http://s02.midns.net:8034/stream/1/
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Bio Bio Osorno (106.5 FM Osorno)
+#EXTINF:-1, Bio Bio Osorno (106.5 FM Osorno)
 https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Cooperativa (106.7 FM)
+#EXTINF:-1, Cooperativa (106.7 FM)
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Plus FM (106.9 FM Antofagasta)
+#EXTINF:-1, Plus FM (106.9 FM Antofagasta)
 http://sonando.us.digitalproserver.com/fmplus_aac
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Dixi (106.9 FM)
+#EXTINF:-1, Dixi (106.9 FM)
 http://192.99.150.234:9940
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Esperanza (106.9 FM Temuco)
+#EXTINF:-1, Esperanza (106.9 FM Temuco)
 http://audio2.tustreaming.cl:8048/stream
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Creaciones (107.5 FM Temuco)
+#EXTINF:-1, Creaciones (107.5 FM Temuco)
 http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
 
-#EXTINF:-1,  tvg-logo="wAcHSCG.png" group-title="RADIOS ONLINE", BIG Radio
+#EXTINF:-1, BIG Radio
 http://live-origin.us.niu.cl/niu_radio.aac
 
 #EXTINF:-1, Radio Galaxia (Online)
 http://sscl.denialstream.com:8830/;stream/1.mp3
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Anglo Latina (Online)
+#EXTINF:-1, Anglo Latina (Online)
 http://streaming.radioanglolatina.com:8012/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Celeste (Online - Copiapo)
-http://audio2.tustreaming.cl:8046/;stream.mp3
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Concepcion (Online)
-http://ip.audiostreaming.cl:9764/;
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Camara de Diputados (Online)
-http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
 
 #EXTINF:-1, Santiago (Romantica) (690 AM)
 http://audio.mohosting.cl:7028/stream
@@ -306,7 +264,7 @@ http://200.24.229.253:8290/;
 #EXTINF:-1, Santiago (Tropical) (690 AM)
 http://audio.mohosting.cl:7032/stream
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Nuevo Mundo (930 AM)
+#EXTINF:-1, Nuevo Mundo (930 AM)
 http://190.82.105.90:8012/;
 
 #EXTINF:-1, Radio Llacolen (1600 AM Concepcion)
@@ -315,62 +273,20 @@ http://sonando.us.digitalproserver.com/radiollacolen.aac
 #EXTINF:-1, Portales (1180 AM)
 http://s6.jcwebnew.com:8060/stream
 
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio | Online
-http://stream12.iloveradio.de/iloveradio1-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio Dance | Online
-http://stream12.iloveradio.de/iloveradio2-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio Battle | Online
-http://stream12.iloveradio.de/iloveradio3-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio Charts | Online
-http://stream12.iloveradio.de/iloveradio9-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio Mashup | Online
-http://stream12.iloveradio.de/iloveradio5-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio Bass | Online
-http://stream12.iloveradio.de/iloveradio4-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", I Love Radio Pop | Online
-http://stream12.iloveradio.de/iloveradio10-aac.mp3
-
-#EXTINF:-1,  tvg-logo="muAbebc.png" group-title="RADIOS ONLINE", Radio Ritoque (Valparaiso)
+#EXTINF:-1,Ritoque (Valparaiso)
 http://sonando.us.digitalproserver.com/ritoquefm_aac
 
-#EXTINF:-1,  tvg-logo="MhY3UEE.png" group-title="RADIOS ONLINE", UMAG TV señal 2 (Magallanes) 
+#EXTINF:-1, UMAG TV señal 2 (Magallanes) 
 http://cl.origin.grupoz.cl:1935/itser4/tser4.sdp/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Musica de Campo 24/7
+#EXTINF:-1, Musica de Campo 24/7
 https://593b04c4c5670.streamlock.net/8050/8050/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Genial TV
+#EXTINF:-1, Genial TV
 http://v3.tustreaming.cl/genialtv/live1/index.m3u8
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Kool London Radio | Online
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Coca-cola radio | Brasil
-http://s.imusicaradios.com.br:1935/imusica_radio/brasil.stream/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", iHeart 80s | USA
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Lite FM 106.7 | USA
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="zDuLa3y.png" group-title="RADIOS ONLINE", Nick Radio | USA
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", FM O Dia | Brasil
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
-
-#EXTINF:-1,  tvg-logo="71kcIC0.png" group-title="RADIOS ONLINE", Radio Francia Internacional
-http://live02.rfi.fr/rfienespagnol-64.mp3
-
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Festival de Viña del Mar | Online
+#EXTINF:-1, Festival de Viña del Mar | Online
 http://festival.cl:8000/;
 
-#EXTINF:-1,  tvg-logo="http://www.immradio.com.ar/escuchanos-en-vivo.png" group-title="RADIOS ONLINE", Radio Caracola de Valparaíso | Online
+#EXTINF:-1, Caracola de Valparaíso | Online
 http://185.50.197.212:9322/
