@@ -12,6 +12,9 @@ http://audio2.tustreaming.cl:7040/stream
 #EXTINF:-1, Paloma (97.5 Talca)
 http://radio.mediastre.am/paloma.aac
 
+#EXTINF:-1, Alegria del Transporte (90.9 FM Calama)
+http://s6.medionline.cl:9364/;
+
 #EXTINF:-1, Buin (107.5)
 http://streaming.buinaldia.cl:8006/buinaldia128
 
@@ -44,9 +47,6 @@ http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 
 #EXTINF:-1, Pudahuel (90.5 FM)
 http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
-
-#EXTINF:-1, Alegria del Transporte (90.9 FM Calama)
-http://s6.medionline.cl:9364/;
 
 #EXTINF:-1, Maray (90.9 FM Copiapo)
 http://184.154.173.147:8000/;stream.mp3
