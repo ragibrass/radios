@@ -24,14 +24,29 @@ https://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
 #EXTINF:-1, Carnaval (Rancagua)
 http://tunein.digitalproserver.com/carnaval_rancagua
 
-#EXTINF:-1, Amiga (88.5 FM Vallenar)
-http://184.154.173.147:8021/stream
+#EXTINF:-1, Carnaval (Vina del mar)
+http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
+
+#EXTINF:-1, Carnaval (Antofagasta)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1, Carnaval (Curico)
+http://tunein.digitalproserver.com/carnaval_curico
+
+#EXTINF:-1, Sabor tropical (Talca)
+http://audio1.tustreaming.cl:7500/stream/1/
+
+#EXTINF:-1, RTL (Curico)
+http://radio.mediadev.cl:8090/rtl_curico
+
+#EXTINF:-1, Festiva (Ovalle)
+http://s6.jcwebnew.com:8070/stream/1/
 
 #EXTINF:-1, Cariñosa (92.1 Chillan)
 https://streams.radio.co/s3648b23b1/listen
 
-#EXTINF:-1, Futuro (88.9 FM)
-http://19793.live.streamtheworld.com/FUTUROAAC.aac
+#EXTINF:-1, Punto 7 (Temuco)
+https://unlimited4-us.dps.live/p7temuco/aac/icecast.audio
 
 #EXTINF:-1, Radio Nuevo Mundo (88.9 FM Ovalle)
 http://190.82.105.90:8012/stream/1/
@@ -74,6 +89,9 @@ http://unlimited3-cl.dps.live/universo/mp3/icecast.audio
 
 #EXTINF:-1, Centinela (93.9 FM Yumbel)
 http://s3.medionline.cl:9964
+
+#EXTINF:-1, Amiga (88.5 FM Vallenar)
+http://184.154.173.147:8021/stream
 
 #EXTINF:-1, Magistral (93.9 FM Galvarino)
 http://www.magistralfm.cl:9110/galvarino
