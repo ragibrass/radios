@@ -48,8 +48,8 @@ https://streams.radio.co/s3648b23b1/listen
 #EXTINF:-1, Punto 7 (Temuco)
 https://unlimited4-us.dps.live/p7temuco/aac/icecast.audio
 
-#EXTINF:-1, Radio Nuevo Mundo (88.9 FM Ovalle)
-http://190.82.105.90:8012/stream/1/
+#EXTINF:-1, Lautarisima FM (Lautaro 97.3)
+http://ip.audiostreaming.cl:9820/;
 
 #EXTINF:-1, Duna (89.7 FM)
 http://unlimited11-cl.dps.live/duna/aac/icecast.audio
