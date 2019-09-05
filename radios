@@ -15,6 +15,9 @@ http://radio.mediastre.am/paloma.aac
 #EXTINF:-1, Alegria del Transporte (90.9 FM Calama)
 http://s6.medionline.cl:9364/;
 
+#EXTINF:-1, Futuro (88.9 FM)
+https://20813.live.streamtheworld.com/FUTUROAAC_SC
+
 #EXTINF:-1, Buin (107.5)
 http://streaming.buinaldia.cl:8006/buinaldia128
 
@@ -203,9 +206,6 @@ http://14003.live.streamtheworld.com/CORAZONAAC.aac
 
 #EXTINF:-1, 40 Principales (101.7 FM)
 http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
-
-#EXTINF:-1, Oasis (102.1 FM)
-http://mp3.oasisfm.cl/;
 
 #EXTINF:-1, U. de Chile (102.5 FM)
 http://streamuchile.teslati.com:8000/listen.pls?sid=1
