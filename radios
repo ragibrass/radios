@@ -21,6 +21,12 @@ http://streaming.buinaldia.cl:8006/buinaldia128
 #EXTINF:-1, FM Tiempo (95.9)
 https://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
 
+#EXTINF:-1, Radio Azucar
+http://cast.radioservicios.cl:8204/Azucar
+
+#EXTINF:-1, Somos Pichilemu (106.7 FM)
+http://audio.streaminghd.cl:9002/;stream.nsv
+
 #EXTINF:-1, Carnaval (Rancagua)
 http://tunein.digitalproserver.com/carnaval_rancagua
 
@@ -39,8 +45,20 @@ http://audio1.tustreaming.cl:7500/stream/1/
 #EXTINF:-1, RTL (Curico)
 http://radio.mediadev.cl:8090/rtl_curico
 
+#EXTINF:-1, RTL (Linares)
+http://radio.mediadev.cl:8040/rtllinares
+
+#EXTINF:-1, Radio La Nueva
+http://audio5.tustreaming.cl:7010/stream
+
 #EXTINF:-1, Festiva (Ovalle)
 http://s6.jcwebnew.com:8070/stream/1/
+
+#EXTINF:-1, Exito La Popular (106.1 FM)
+http://livehd.cdn.felpysolutions.us/proxy/sc_relpcl?mp=/;&1578560718573
+
+#EXTINF:-1, Cobremar (Atacama)
+http://stream5.eltelon.com/cobremar.aac
 
 #EXTINF:-1, Cariñosa (92.1 Chillan)
 https://archi-us.digitalproserver.com/carinosa-fm.aac
@@ -51,8 +69,17 @@ https://unlimited4-us.dps.live/p7temuco/aac/icecast.audio
 #EXTINF:-1, Lautarisima FM (Lautaro 97.3)
 http://ip.audiostreaming.cl:9820/;
 
-#EXTINF:-1, Duna (89.7 FM)
-http://unlimited11-cl.dps.live/duna/aac/icecast.audio
+#EXTINF:-1, Caramelo Marchigue (88.7 FM)
+http://5.9.65.9:8174/stream/1/
+
+#EXTINF:-1, Caramelo San Vicente (104.5 FM)
+http://cast.radioservicios.cl:8316/sanvicente
+
+#EXTINF:-1, Caramelo Las Cabras (101.5 FM)
+http://cast.radioservicios.cl:8318/lascabras
+
+#EXTINF:-1, Fiessta Rancagua (90.9 FM)
+http://5.9.65.9:8174/stream/1/
 
 #EXTINF:-1, Ñuble (89.7 FM Chillan)
 http://173.233.72.82:9358/;
