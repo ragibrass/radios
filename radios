@@ -15,9 +15,6 @@ http://192.99.18.164:9622/;
 #EXTINF:-1, Alegria del Transporte (90.9 FM Calama)
 http://s6.medionline.cl:9364/;
 
-#EXTINF:-1, Futuro (88.9 FM)
-https://20813.live.streamtheworld.com/FUTUROAAC_SC
-
 #EXTINF:-1, Buin (107.5)
 http://streaming.buinaldia.cl:8006/buinaldia128
 
@@ -46,7 +43,7 @@ http://radio.mediadev.cl:8090/rtl_curico
 http://s6.jcwebnew.com:8070/stream/1/
 
 #EXTINF:-1, Cariñosa (92.1 Chillan)
-https://streams.radio.co/s3648b23b1/listen
+https://archi-us.digitalproserver.com/carinosa-fm.aac
 
 #EXTINF:-1, Punto 7 (Temuco)
 https://unlimited4-us.dps.live/p7temuco/aac/icecast.audio
@@ -69,8 +66,8 @@ http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 #EXTINF:-1, Maray (90.9 FM Copiapo)
 http://184.154.173.147:8000/;stream.mp3
 
-#EXTINF:-1, ADN Radio (91.7 FM)
-http://19173.live.streamtheworld.com/ADNAAC.aac
+#EXTINF:-1, Futuro (88.9 FM)
+https://20813.live.streamtheworld.com/FUTUROAAC_SC
 
 #EXTINF:-1, Centro FM (91.7 FM Gorbea)
 http://s00.midns.net:8040/;
