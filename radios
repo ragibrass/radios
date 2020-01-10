@@ -10,7 +10,7 @@ https://18723.live.streamtheworld.com/ADN_SC
 http://audio2.tustreaming.cl:7040/stream
 
 #EXTINF:-1, Paloma (97.5 Talca)
-http://radio.mediastre.am/paloma.aac
+http://192.99.18.164:9622/;
 
 #EXTINF:-1, Alegria del Transporte (90.9 FM Calama)
 http://s6.medionline.cl:9364/;
